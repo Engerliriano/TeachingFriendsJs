@@ -4,7 +4,7 @@ Proyectos con amigos a los que les enseño HTML, CSS y JS
 Miembros:
 - [Me](https://github.com/Christian64)
 - [Jordy](https://github.com/JorGT1)
-- [Adams](https://github.com/adamsmconor)
+- [Adams](https://github.com/AdamsW1221)
 - [Enger](#)
 
 # Sobre este repositorio
