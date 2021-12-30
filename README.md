@@ -12,4 +12,4 @@ Este repositorio esta enfocado en agrupar mucho de los proyectos que hagamos mis
 en focado de una forma mas "Realista", todo aquel que quiera colaborar en el mismo esta libre de hacerlo.
 
 # Proyectos
- - [csGenerator](#) Proyectos para general curriculums online, con responder unos cuantas preguntas.
+ - [cvGenerator](#) Proyectos para general curriculums online, con responder unos cuantas preguntas.
